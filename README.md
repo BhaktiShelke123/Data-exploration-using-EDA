@@ -20,4 +20,4 @@ This repository contains the first assignment for an introductory Data Mining co
 ## How to Run
 1.  Clone this repository: `git clone https://github.com/YourUsername/Data-exploration-using-EDA.git`
 2.  Ensure you have Pandas installed (`pip install pandas`).
-3.  Open `DataMining_HW1_Saith_krihna.ipynb` in a Jupyter environment and run the cells.
+3.  Open `DataExploration-EDA.ipynb` in a Jupyter environment and run the cells.
